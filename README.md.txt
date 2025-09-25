@@ -9,7 +9,7 @@ This is a console-based Java application designed to manage student and course r
 1.  **Prerequisites**: Ensure you have the Java Development Kit (JDK) installed. This project was developed and tested with JDK 11.
 2.  **Clone the Repository**:
     ```bash
-    git clone https://github.com/cyphermaverick-in/ccrm.git
+    git clone https://github.com/cyphermave-in/ccrm.git
     cd CCRM
     ```
 3.  **Run from IDE**:
